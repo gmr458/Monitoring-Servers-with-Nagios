@@ -8,11 +8,11 @@ Monitoring Servers with Nagios
 | German Marin    | UniBarranquilla - IUB                |
 
 
-### Abstract (Resumen)
+### Abstract
 
 This series of tasks related to system administration, network monitoring, and containerization. The tasks include setting up and configuring Linux servers, installing monitoring tools such as Nagios and NRPE, deploying services within Docker containers, and configuring host monitoring. Specifically, tasks involve setting up Ubuntu Linux on designated machines (VBOX_NAGIOS and VBOX_DOCKER), installing and configuring Nagios for network monitoring on VBOX_NAGIOS, deploying an NGINX server within a Docker container on VBOX_DOCKER, and configuring host monitoring for at least two services on the Nagios server.
 
-### Screenshots (Pantallazos)
+### Screenshots
 
 #### VBOX_NAGIOS virtual machine created.
 ![image_01](./images/image_01.png)
@@ -57,7 +57,7 @@ This series of tasks related to system administration, network monitoring, and c
 ![image_14](./images/image_14.png)
 
 
-### TOOLS TIC'S (Herramientas TIC'S)
+### TOOLS TIC'S
 
 - Docker
 - Nagios
@@ -90,7 +90,7 @@ This series of tasks related to system administration, network monitoring, and c
 
 ### Roadmap
 
-	 Pre-requisitos (Pre-Requisites)
+	 Pre-Requisites
 	 	Install Ubuntu Linux on a machine named VBOX_NAGIOS.
 		Install the Nagios monitoring tool on the VBOX_NAGIOS server.
 		Enable port 80 in the firewall of the Nagios server.
